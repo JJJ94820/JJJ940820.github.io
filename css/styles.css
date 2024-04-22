@@ -91,6 +91,13 @@
   }
 }
 
+.expedu_icon{
+  color: #495057;
+}
+.expedu_icon:hover{
+  background-color: #495057;
+  color: #fff;
+}
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
